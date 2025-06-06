@@ -1,14 +1,29 @@
-#Travel Agency
+# Travel Agency System
 
-A travel agency application implemented in Java swing.
+A travel agency application implemented in Java Swing as part of a Human-Computer Interaction course.
 
-Requirements:
+## Requirements
 
--Java 8
+- Java 8 or higher
+- NetBeans (or any other Java IDE)
+- SQLite (for local data storage in transferrable files)
 
--Netbeans, or any other IDE
+> 🔎 **Note:** SQLite has a command-line interface and is easy to manage. Although older Firefox add-ons were convenient, they're not compatible with Firefox Quantum. Use a standalone SQLite browser or command line to manage data.
 
--sqlite, to store local data in transferrable files
+## Features
 
-Note: Sqlite has a pretty good Firefox manager add-on, but it's not compatible as of Firefox Quantum. 
-Sqlite can be managed quite easily from the command shell, and has the advantage over localhost in that it actually stores its data in files; you can transfer your data from machine to machine if needed.
+- Java Swing-based GUI with intuitive navigation
+- Dashboard with featured destinations
+- Booking flow with form validation
+- Contact and user profile pages
+- Input validation and error handling
+
+## Report
+
+You can find the full project report [here](./report/COMP482_assignment3_PanchalHarsh_3701462.pdf).
+
+## Author
+
+Harsh Panchal  
+Bachelor of Computer Science, Carleton University  
+[LinkedIn](https://www.linkedin.com/in/harsh-panchal-b2a25419b/)
