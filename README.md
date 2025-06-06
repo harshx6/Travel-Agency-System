@@ -21,7 +21,7 @@ A travel agency application implemented in Java Swing as part of a Human-Compute
 ## Report
 
 You can find the full report here:  
-[📄 COMP482_assignment3_PanchalHarsh_3701462.pdf](./report/COMP482_assignment3_PanchalHarsh_3701462.pdf)
+[📄 Travel Agency System Report.pdf](./report/COMP482_assignment3_PanchalHarsh_3701462.pdf)
 
 ## Author
 
